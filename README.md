@@ -97,5 +97,5 @@ This analysis helps banks understand customer behavior and take proactive retent
 
 ## Author
 **Chinmayee Dalai**  
-Aspiring Data Analyst | Power BI | SQL | Excel
+Power BI | SQL | Excel
   
